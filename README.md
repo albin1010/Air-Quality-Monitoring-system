@@ -4,6 +4,14 @@ This project implements a compact, low-cost system for real-time monitoring of a
 
 The system continuously measures air quality by detecting harmful gases such as $\text{NH}_3$, $\text{NO}_{\text{x}}$, $\text{CO}_2$, smoke, and benzene.
 
+## 🎥 Project Demonstration
+
+A full video demonstration of the system's operation, real-time data flow, and alarm trigger mechanism is available here:
+
+[Watch the Full System Demonstration Video Here](Docs/Project_Demonstration.mp4) 
+
+***
+
 ## 🌟 Key Features
 
 * **Real-time Monitoring:** Measures air quality using the **MQ-135 Gas Sensor** (connected to A0) and environmentals (T/H) using the **DHT11 Sensor** (connected to D4).
@@ -27,7 +35,7 @@ The repository is organized into three main folders:
 | :--- | :--- | :--- |
 | **MQ-135 Analog Out** | A0 | Analog sensor reading |
 | **DHT11 Data** | D4 | Digital data pin |
-| **Buzzer** | D0 | Local alert indicator (active LOW) |
+| **Buzzer** | D0 | Buzzer control (active LOW) |
 | **Alarm LED** | D6 | Physical LED indicator |
 
 ## 🔗 Project Files
