@@ -6,9 +6,12 @@ The system continuously measures air quality by detecting harmful gases such as 
 
 ## 🎥 Project Demonstration
 
-A full video demonstration of the system's operation, real-time data flow, and alarm trigger mechanism is available here:
+A comprehensive video demonstration of the system's operational workflow, real-time data visualization, and automated alarm trigger mechanism is available via the link below:
 
-[Watch the Full System Demonstration Video Here](Docs/Project_Demonstration.mp4) 
+**[▶️ View System Demonstration Video](https://drive.google.com/file/d/1PKbk-TQ3kxujMSxxviOvx8rL3FXMY_Bh/view?usp=drivesdk)**
+
+---
+*Please note: The video file is hosted externally on Google Drive to adhere to GitHub's file size limitations. Ensure the link is publicly accessible for viewing.*
 
 ***
 
@@ -43,4 +46,4 @@ The repository is organized into three main folders:
 * **Full Report (PDF):** [Docs/Air\_Quality\_Monitoring\_System\_Report.pdf](Docs/Air_Quality_Monitoring_System_Report.pdf)
 * **Code (`.ino`):** [Firmware/air\_quality\_monitor\_blynk.ino](Firmware/air_quality_monitor_blynk.ino)
 * **Block Diagram:** [Diagrams/Block\_Diagram\_Image.jpg](Diagrams/Block_Diagram_Image.jpg)
-* **Circuit Diagram:** [Diagrams/Circuit\_Diagram\_Image.jpg](Diagrams/Circuit_Diagram_Image.jpg)
+* **Circuit Diagram:** [Diagrams/Circuit\_Diagram\_Image.jpg](Diagrams/Circuit_Diagram\_Image.jpg)
