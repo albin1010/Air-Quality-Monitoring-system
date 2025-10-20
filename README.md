@@ -8,15 +8,16 @@ The system continuously measures air quality by detecting harmful gases such as 
 
 Demonstrating the operational workflow, real-time data capture, and automated alarm sequences of the monitoring system.
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1PKbk-TQ3kxujMSxxviOvx8rL3FXMY_Bh/view?usp=drivesdk">
-    <img src="Diagrams/demo-thumbnail.jpg" alt="Click to Watch Video Demonstration" width="70%" />
-  </a>
-  <br>
-  [Click to Launch Full HD Demonstration on Google Drive]
-</p>
+**Clickable Video Demonstration**
+<br>
+<a href="https://drive.google.com/file/d/1PKbk-TQ3kxujMSxxviOvx8rL3FXMY_Bh/view?usp=drivesdk">
+  <img src="Diagrams/demo-thumbnail.jpg" alt="Click to Watch Video Demonstration" width="600" />
+</a>
 
+---
+*Note on Access: The demonstration video is hosted externally to comply with GitHub's file size restrictions. Please ensure public access permissions are active on the Google Drive link.*
 
+***
 
 ## 🌟 Key Features
 
