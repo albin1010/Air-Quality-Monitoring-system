@@ -14,9 +14,6 @@ Demonstrating the operational workflow, real-time data capture, and automated al
   <img src="Diagrams/demo-thumbnail.jpg" alt="Click to Watch Video Demonstration" width="600" />
 </a>
 
----
-*Note on Access: The demonstration video is hosted externally to comply with GitHub's file size restrictions. Please ensure public access permissions are active on the Google Drive link.*
-
 ***
 
 ## 🌟 Key Features
@@ -51,3 +48,4 @@ The repository is organized into three main folders:
 * **Code (`.ino`):** [Firmware/air\_quality\_monitor\_blynk.ino](Firmware/air_quality_monitor_blynk.ino)
 * **Block Diagram:** [Diagrams/Block\_Diagram\_Image.jpg](Diagrams/Block_Diagram_Image.jpg)
 * **Circuit Diagram:** [Diagrams/Circuit\_Diagram\_Image.jpg](Diagrams/Circuit_Diagram\_Image.jpg)
+* 
