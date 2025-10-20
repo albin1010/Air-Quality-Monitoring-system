@@ -8,7 +8,7 @@ The system continuously measures air quality by detecting harmful gases such as 
 
 Demonstrating the operational workflow, real-time data capture, and automated alarm sequences of the monitoring system.
 
-**[File Size Limit Exceeded: Click to View Demonstration Externally]**
+**[Click Image to Watch Full System Demonstration Video]**
 <br>
 <a href="https://drive.google.com/file/d/1PKbk-TQ3kxujMSxxviOvx8rL3FXMY_Bh/view?usp=drivesdk">
   <img src="Diagrams/demo-thumbnail.jpg" alt="Click to Watch Video Demonstration" width="600" />
