@@ -16,10 +16,7 @@ Demonstrating the operational workflow, real-time data capture, and automated al
   [Click to Launch Full HD Demonstration on Google Drive]
 </p>
 
----
-*Note on Access: The demonstration video is hosted externally to comply with GitHub's file size restrictions. Please ensure public access permissions are active on the Google Drive link.*
 
-***
 
 ## 🌟 Key Features
 
