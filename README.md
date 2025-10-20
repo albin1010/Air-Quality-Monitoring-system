@@ -2,7 +2,7 @@
 
 This project implements a compact, low-cost system for real-time monitoring of air quality, temperature, and humidity, utilizing the **ESP8266 NodeMCU** and the **Blynk 2.0 Cloud Platform**.
 
-The system continuously measures air quality by detecting harmful gases such as $\text{NH}_3$, $\text{NO}_{\text{x}}$, $\text{CO}_2$, smoke, and benzene.
+The system continuously measures air quality by detecting harmful gases such as **NH₃**, **NOₓ**, **CO₂**, smoke, and benzene.
 
 ## 🎥 Comprehensive Project Demonstration
 
@@ -38,4 +38,13 @@ The repository is organized into three main folders:
 | Component | NodeMCU Pin | Notes |
 | :--- | :--- | :--- |
 | **MQ-135 Analog Out** | A0 | Analog sensor reading |
-| **DHT11 Data** | D4
+| **DHT11 Data** | D4 | Digital data pin |
+| **Buzzer** | D0 | Buzzer control (active LOW) |
+| **Alarm LED** | D6 | Physical LED indicator |
+
+## 🔗 Project Files
+
+* **Full Report (PDF):** [Docs/Air\_Quality\_Monitoring\_System\_Report.pdf](Docs/Air_Quality_Monitoring_System_Report.pdf)
+* **Code (`.ino`):** [Firmware/air\_quality\_monitor\_blynk.ino](Firmware/air_quality_monitor_blynk.ino)
+* **Block Diagram:** [Diagrams/Block\_Diagram\_Image.jpg](Diagrams/Block_Diagram_Image.jpg)
+* **Circuit Diagram:** [Diagrams/Circuit\_Diagram\_Image.jpg](Diagrams/Circuit_Diagram\_Image.jpg)
